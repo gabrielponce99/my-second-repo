@@ -3,5 +3,6 @@ public class MySecondRepo {
         System.out.println("Here's my second repo!");
         System.out.println("What do you think about it?");
         System.out.println("Here's an update!");
+        System.out.println("What about another update!");
     }
 }
